@@ -1,0 +1,5 @@
+com\tamil\iot\apiui\config\GraphiteConfig.class
+com\tamil\iot\apiui\controller\MyController.class
+com\tamil\iot\apiui\entity\MyEntity.class
+com\tamil\iot\apiui\Application.class
+com\tamil\iot\apiui\config\SwaggerConfig.class
